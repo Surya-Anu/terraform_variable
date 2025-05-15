@@ -6,4 +6,7 @@ resource "azurerm_resource_group" "surya" {
 
 variable "resource_group_name" {
   type = any
+
+
+  
 }
