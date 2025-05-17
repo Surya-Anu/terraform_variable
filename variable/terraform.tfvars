@@ -6,5 +6,10 @@ resource_group_name = {
     "rg2" = {
         rg_name  = "rg12"
         location = "East US"
-    }
+
+}
+"rg3" = {
+        rg_name  = "rg13"
+        location = "East US"
+
 }
